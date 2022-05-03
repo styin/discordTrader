@@ -147,4 +147,3 @@ def getrecord(member_id,server_id):
 
 if __name__=="__main__":
     print("debug")
-

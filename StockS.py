@@ -126,3 +126,4 @@ class Record(Base):
 
     def getinfo(self):
         return [self.ticker,self.quantity,self.price,self.quantity*self.price,self.transactionRealTime]
+        
